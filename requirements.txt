@@ -1,0 +1,10 @@
+os
+jupyter
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-ollama
+langchain-openai
+langchain-text-splitters
+gradio
